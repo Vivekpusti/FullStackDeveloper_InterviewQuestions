@@ -2,9 +2,11 @@
 
 Section 1: Java Spring Boot
 
-1. What is Spring Boot? How is it different from other Spring frameworks?
+###1. 
+What is Spring Boot? How is it different from other Spring frameworks?
 
-2. What is Spring Data JPA? How is it used in Spring Boot applications?
+###2.
+What is Spring Data JPA? How is it used in Spring Boot applications?
 
 3. Explain the concept of Dependency Injection in Spring Boot.
 
